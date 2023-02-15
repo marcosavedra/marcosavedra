@@ -5,7 +5,7 @@ I'm a System Information student of Universidade Federal do Pará. Currently i'm
 
 ![Marcos Saavedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosavedra&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosavedra&layout=compact)](https://github.com/marcosavedra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosavedra&layout=compact&theme=dark)](https://github.com/marcosavedra/github-readme-stats)
 
 In construction...
 <!--
