@@ -1,6 +1,8 @@
 ## Hi there! I'm Marcos Saavedra 👋
 
 
+I'm a System Information student of Universidade Federal do Pará. Currently i'm a web development trainee in secretaria da fazenda of Pará, my area is front-end development.
+
 ![Marcos Saavedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosavedra&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosavedra&layout=compact)](https://github.com/marcosavedra/github-readme-stats)
