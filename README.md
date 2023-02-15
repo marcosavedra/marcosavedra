@@ -1,7 +1,7 @@
 ## Hi there! I'm Marcos Saavedra 👋
 
 
-![Marcos Saavedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosavedra&show_icons=true&theme=radical)
+![Marcos Saavedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosavedra&show_icons=true&theme=dark)
 In construction...
 <!--
 **marcosavedra/marcosavedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
